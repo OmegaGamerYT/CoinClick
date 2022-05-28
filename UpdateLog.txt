@@ -1,3 +1,0 @@
-Version 1: Got the game working only 2 shop options. Settings and Rebirths have been configured but will not be added until 1.1.
-
-Version 1.1: The Settings menu is developed. The Load and Save function is also made in Beta.
